@@ -1,0 +1,3 @@
+ofxThinkGear
+ofxTweenLite
+ofxBlur
